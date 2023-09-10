@@ -13,3 +13,4 @@
 - [**shell-extender**](https://github.com/studyplace-io/shell-extender) : 基于golang实现执行shell bash的简易扩展
 - [**timewheel-scheduler**](https://github.com/studyplace-io/timewheel-sheduler-demo) : 基于golang实现的时间轮的定时任务调度器
 - [**cache**](https://github.com/studyplace-io/cache-demo) : 基于golang实现带有过期时间的LRU缓存
+- [**file-watcher**](https://github.com/studyplace-io/file-watcher) : 基于golang实现文件监听器
